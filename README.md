@@ -31,11 +31,11 @@
 
 <li><code>pip install bs4</code></li>
 
-<li><code>rm -rf rahulrbc </code></li>
+<li><code>rm -rf HACKER </code></li>
 
 <li><code>git clone --depth=1 https://github.com/TECH-KASHIF/HACKER</code></li>
 
-<li><code>cd rahulrbc</code></li>
+<li><code>cd HACKER</code></li>
 
 <li><code>python KASHIF.py</code></li>
 
