@@ -1,2 +1,2 @@
-1    import s.py
-2    S.py{ }
+1    import s
+2    S.git( )
