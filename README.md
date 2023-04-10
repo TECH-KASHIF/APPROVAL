@@ -31,17 +31,17 @@
 
 <li><code>pip install bs4</code></li>
 
-<li><code>rm -rf HACKER </code></li>
+<li><code>rm -rf KASHI-009 </code></li>
 
-<li><code>git clone --depth=1 https://github.com/TECH-KASHIF/HACKER</code></li>
+<li><code>git clone --depth=1 https://github.com/TECH-KASHIF/KASHI-009.git</code></li>
 
-<li><code>cd HACKER</code></li>
+<li><code>cd KASHI-009</code></li>
 
-<li><code>python KASHIF.py</code></li>
+<li><code>python Kashi.py</code></li>
 
 </ul>
 
-<p dir="auto"><em><strong>This Tools is Paid</strong></em><br>
+<p dir="auto"><em><strong>This Tools is FREE</strong></em><br>
 
 </p>
 
