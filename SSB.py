@@ -1,1 +1,1 @@
-import SSB.py
+import SSB
